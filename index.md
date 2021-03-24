@@ -1,10 +1,8 @@
 ---
 layout: home
-permalink: "/"
-title: Athena Jekyll Theme
+permalink: /
+title: "Avisos aos navegantes \U0001F4BA"
 
 ---
-
-A simple and elegant theme for Jekyll and GitHub Pages.
-
+Fique por dentro de greves, problema e notícias sobres os ônibus no Espírito Santo.
 
